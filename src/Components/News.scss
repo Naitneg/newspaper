@@ -1,0 +1,16 @@
+.posti {
+  .bg-light-blue{
+    height: 100%;
+  }
+  img {
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-right: 5%;
+  }
+  .data {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+}
